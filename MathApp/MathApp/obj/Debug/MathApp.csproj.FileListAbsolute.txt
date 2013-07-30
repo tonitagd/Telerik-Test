@@ -5,3 +5,10 @@ D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\bin
 D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.csprojResolveAssemblyReference.cache
 D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.exe
 D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.pdb
+D:\Telerik\KnowledgeSharing\SourceControlSystems\GitHub Repository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.exe.config
+D:\Telerik\KnowledgeSharing\SourceControlSystems\GitHub Repository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.exe
+D:\Telerik\KnowledgeSharing\SourceControlSystems\GitHub Repository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.pdb
+D:\Telerik\KnowledgeSharing\SourceControlSystems\GitHub Repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.csprojResolveAssemblyReference.cache
+D:\Telerik\KnowledgeSharing\SourceControlSystems\GitHub Repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.exe
+D:\Telerik\KnowledgeSharing\SourceControlSystems\GitHub Repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.pdb
+f5b8c28d87e5e00017ba3245c7aee041c66758f4
