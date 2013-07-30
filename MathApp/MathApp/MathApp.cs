@@ -7,8 +7,8 @@ class MathApp
         Console.WriteLine("Hey there!");
         Console.WriteLine("Talking to myself!");
         Console.WriteLine("Hi my name is Stephan");
-        Console.WriteLine("typaci");
-        Console.WriteLine("bageri");
+        Console.WriteLine("I am not here");
+        Console.WriteLine("You are not there");
     }
 
 
