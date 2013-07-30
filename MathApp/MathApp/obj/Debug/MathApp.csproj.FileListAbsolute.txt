@@ -1,2 +1,7 @@
 D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.exe.config
 D:\GITRepository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.exe.config
+D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.exe
+D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\bin\Debug\MathApp.pdb
+D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.csprojResolveAssemblyReference.cache
+D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.exe
+D:\Telerik\Knowledge Sharing\Git hub repository\Telerik-Test\MathApp\MathApp\obj\Debug\MathApp.pdb
