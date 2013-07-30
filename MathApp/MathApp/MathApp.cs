@@ -8,6 +8,7 @@ class MathApp
         Console.WriteLine("Talking to myself!");
         Console.WriteLine("Hi my name is Stephan");
         Console.WriteLine("typaci");
+        Console.WriteLine("bageri");
     }
 
 
